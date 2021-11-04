@@ -3,7 +3,7 @@ description:
 author: Karl Mathias Moberg
 github: https://github.com/kmoberg
 about: Senior Cloud Engineer and Developer, specialized in AWS.
-disqus_shortname: stackproblems
+# disqus_shortname:
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true

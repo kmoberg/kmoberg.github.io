@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a senior cloud engineer and developer, specialized in AWS, Python, Go, PHP and more.
 
-email: agus[at]python.web.id
+email: km@kmoberg.no
